@@ -21,17 +21,13 @@
 * 拦截常用应用程序的隐私跟踪、行为分析、数据统计
 
 # ♻️ SS/SSR Download：
-* ACL更新地址（**白名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/banAD.acl
-* ACL更新地址（**黑名单**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-banAD.acl
-* ACL更新地址（**全局**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/onlybanAD.acl
-* ACL更新地址（**仅GFWList**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/fullgfwlist.acl
-* ACL更新地址（**国内代理**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/backcn-banAD.acl
-* ACL更新地址（**白名单，无去广告**）：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/nobanAD.acl
-* SSR C# GFWList user.rule ：https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/gfwlist-user.rule
-
-
-* SSR-WIN：https://github.com/shadowsocksr/shadowsocksr-csharp/releases
-* SSR-安卓：https://github.com/shadowsocksr/shadowsocksr-android/releases
+* ACL更新地址（**白名单**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/banAD.acl
+* ACL更新地址（**黑名单**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/gfwlist-banAD.acl
+* ACL更新地址（**全局**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/onlybanAD.acl
+* ACL更新地址（**仅GFWList**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/fullgfwlist.acl
+* ACL更新地址（**国内代理**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/backcn-banAD.acl
+* ACL更新地址（**白名单，无去广告**）：https://gitee.com/zzj0311/ACL4SSR/raw/master/nobanAD.acl
+* SSR C# GFWList user.rule ：https://gitee.com/zzj0311/ACL4SSR/raw/master/gfwlist-user.rule
 
 # ♻️ Surge/Shadowrocket Config File Download：
 * Surge Config File 更新地址：https://raw.githubusercontent.com/lhie1/Surge/master/Surge.conf
