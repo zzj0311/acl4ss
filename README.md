@@ -46,8 +46,7 @@
 * 参照vokins大神的hosts规则改编，致谢!! https://github.com/vokins/yhosts
 * 参照lhie1大神的surge规则改编，致谢!! https://github.com/lhie1/Surge
 * 参照scomper大神的surge规则改编，致谢!!https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
-
-* 有问题也不要发issue,爱用不用
+* 只是为了加速而迁移到国内，为方便我自己使用少量添加常用网站的一个版本，有问题也不要发给我issue，发到原版去！！！！
 		
 # License		
 * CC-BY-SA-4.0
