@@ -1067,6 +1067,12 @@
 (^|\.)xda-developers\.com$
 (^|\.)rmdown\.com$
 (^|\.)uptorrentfilespacedownhostabc.\rocks$
+(^|\.)bohaishibei\.com$
+(^|\.)s3\.amazonaws\.com$
+(^|\.)readthedocs\.io$
+(^|\.)budgetnode\.com$
+(^|\.)xda-cdn\.com$
+(^|\.)akamaihd\.net$
 
 #GFWList IP start
 85.17.73.31
