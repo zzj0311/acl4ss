@@ -1073,6 +1073,9 @@
 (^|\.)budgetnode\.com$
 (^|\.)xda-cdn\.com$
 (^|\.)akamaihd\.net$
+(^|\.)lowendtalk\.com$
+(^|\.)lawnchair\.info$
+
 
 #GFWList IP start
 85.17.73.31
