@@ -8,19 +8,15 @@
 # 参照lhie1的surge规则改编，致谢!! https://github.com/lhie1/Surge
 # 参照scomper的surge规则改编，致谢!! https://gist.github.com/scomper/915b04a974f9e11952babfd0bbb241a8/revisions
 #
-# 下载地址 https://gitee.com/zzj0311/ACL4SSR/raw/master/gfwlist-banAD.acl
+# 下载地址 https://raw.githubusercontent.com/zzj0311/acl4ss/master/gfwlist-banAD.acl
 #
 #**********************************************************************
 # This is a personal modification, I'd prefer suggest you to use the original one if you have no idea what I have modified.
 # 
 
 [bypass_all]
-### 默认直连 自己可以自定义
-### [outbound_block_list] 禁止访问列表 在26行
-### [bypass_list] 直连列表 禁止访问列表 在723多行
-### [proxy_list] 代理列表 在3371多行
-
 #**********************************************************************
+
 [outbound_block_list]
 # 禁止访问列表
 
@@ -1061,8 +1057,7 @@
 (^|\.)tumbex\.com$
 (^|\.)twdvd\.com$
 (^|\.)xn--i2ru8q2qg\.com$
-
-# MMyList
+#######################################################################
 (^|\.)javbus\.xyz$
 (^|\.)xda-developers\.com$
 (^|\.)rmdown\.com$
@@ -6215,10 +6210,7 @@
 
 # Telegram
 109.239.140.0/24
-149.154.160.0/22
-149.154.164.0/22
-149.154.168.0/22
-149.154.172.0/22
+149.154.160.0/20
 91.108.4.0/22
 91.108.56.0/22
 
